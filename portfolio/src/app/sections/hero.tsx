@@ -17,7 +17,8 @@ function Hero() {
         }}
         className="mt-8 bg-gradient-to-br from-slate-300 to-slate-500 py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
       >
-        Welcome visitor! <br /> Akhil is working on this site currently
+        Welcome Visitor! Akhil is working on this site. Please check back later.
+        
       </motion.h1>
     </LampContainer>
   )
